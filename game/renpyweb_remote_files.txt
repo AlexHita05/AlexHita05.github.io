@@ -1,0 +1,68 @@
+audio/Nocturne.wav
+music -
+images/Abatido.jpg
+image 900,640
+images/Desconocido.png
+image 761,720
+images/Dios, dejame tan solo un dia mas.jpg
+image 260,280
+images/WhatsApp Image 2021-11-28 at 20.45.05.jpeg
+image 893,554
+images/accidente 2.jpg
+image 1248,770
+images/accidente.jpg
+image 1080,607
+images/afueras.jpg
+image 1280,849
+images/baile 2.jpg
+image 2880,1800
+images/baile.jpg
+image 4580,3021
+images/cajas.jpg
+image 2000,1000
+images/casados.jpg
+image 260,340
+images/cenicero.jpg
+image 1920,1080
+images/cocina.jpg
+image 2000,1325
+images/diablo.jpg
+image 260,420
+images/door open.jpg
+image 2551,1409
+images/ella 2.jpg
+image 2000,1334
+images/ella sola.jpg
+image 260,420
+images/ella.jpg
+image 1280,720
+images/escritorio.jpg
+image 1600,1200
+images/familia.jpg
+image 260,200
+images/marcharse.jpg
+image 1280,719
+images/no debo.jpg
+image 413,310
+images/pasillo.jpg
+image 1240,744
+images/pedir matrimonio.jpg
+image 260,300
+images/playa.jpg
+image 275,183
+images/png1.png
+image 920,512
+images/poder llegar a viejos.jpg
+image 260,400
+images/puerta dormitorio.jpg
+image 3554,1999
+images/rehusar.jpeg
+image 1365,2048
+images/rehusar.jpg
+image 1280,720
+images/romance.jpg
+image 260,440
+images/sentado.jpg
+image 260,360
+images/sola.jpg
+image 3950,2246
